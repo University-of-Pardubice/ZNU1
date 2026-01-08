@@ -32,3 +32,11 @@
 10_ANN_classification/graph.png
 11_CNN/11_C_solution_mnist.ipynb
 12_RNN/12_E_solution_airplane.ipynb
+11_CNN/classification_model_cifar10.keras
+11_CNN/graph.png
+11_CNN/graph
+12_RNN/rnn_bi_ltsm.keras
+12_RNN/rnn_gru.keras
+12_RNN/rnn_ltsm.keras
+12_RNN/rnn_simple.keras
+11_CNN/classification_model_mnist.keras

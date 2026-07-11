@@ -40,3 +40,8 @@
 12_RNN/rnn_ltsm.keras
 12_RNN/rnn_simple.keras
 11_CNN/classification_model_mnist.keras
+05_Dataset/chart.png
+05_Dataset/fa_portland.pkl
+05_Dataset/fa.pkl
+05_Dataset/scaler_portland.pkl
+05_Dataset/scaler.pkl

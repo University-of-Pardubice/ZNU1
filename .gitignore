@@ -45,3 +45,5 @@
 05_Dataset/fa.pkl
 05_Dataset/scaler_portland.pkl
 05_Dataset/scaler.pkl
+07_PCA/07_E_solution_polynom.ipynb
+07_PCA/07_F_solution_PCA.ipynb

@@ -47,3 +47,8 @@
 05_Dataset/scaler.pkl
 07_PCA/07_E_solution_polynom.ipynb
 07_PCA/07_F_solution_PCA.ipynb
+08_Classification/08_F_solution_kmean.ipynb
+08_Classification/dt_model.bin
+08_Classification/kmean_model.bin
+08_Classification/rf_model.bin
+08_Classification/svm.bin

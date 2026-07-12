@@ -52,3 +52,4 @@
 08_Classification/kmean_model.bin
 08_Classification/rf_model.bin
 08_Classification/svm.bin
+09_ANN/regression_model.pt

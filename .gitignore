@@ -53,3 +53,12 @@
 08_Classification/rf_model.bin
 08_Classification/svm.bin
 09_ANN/regression_model.pt
+10_ANN_classification/classification_mnist_model.pt
+10_ANN_classification/MNIST/raw/t10k-images-idx3-ubyte
+10_ANN_classification/MNIST/raw/t10k-images-idx3-ubyte.gz
+10_ANN_classification/MNIST/raw/train-images-idx3-ubyte
+10_ANN_classification/MNIST/raw/train-images-idx3-ubyte.gz
+10_ANN_classification/MNIST/raw/t10k-labels-idx1-ubyte.gz
+10_ANN_classification/MNIST/raw/t10k-labels-idx1-ubyte
+10_ANN_classification/MNIST/raw/train-labels-idx1-ubyte
+10_ANN_classification/MNIST/raw/train-labels-idx1-ubyte.gz
